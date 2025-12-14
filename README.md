@@ -1,3 +1,7 @@
+A PROJEKT A MESTERBEN VAN A PRJEKTBRANCHBEN!!!!!!!!!!!
+
+
+
 ### MAUI Contacts App - Dokumentáció
 
 **Projekt áttekintés**
