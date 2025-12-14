@@ -1,0 +1,1 @@
+C:\Users\figur\Downloads\rudolfprojekt\MauiContactsApp\MauiContactsApp\MauiContactsApp.csproj;x64

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiContactsApp.Views.ContactEditPage"
+             Title="ContactEditPage"
+             BackgroundColor="White">
+    <StackLayout Padding="10" Spacing="10">
+        <Entry x:Name="NameEntry" Placeholder="Név" />
+        <Entry x:Name="EmailEntry" Placeholder="Email" Keyboard="Email" />
+        <Entry x:Name="PhoneEntry" Placeholder="Telefonszám" Keyboard="Telephone" />
+
+        <Button Text="Mentés"
+                BackgroundColor="#2196F3"
+                TextColor="White"
+                Clicked="OnSaveClicked"/>
+        <Button Text="Törlés"
+                BackgroundColor="#F44336"
+                TextColor="White"
+                Clicked="OnDeleteClicked"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\figur\\Downloads\\rudolfprojekt\\MauiContactsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD05DC3-2505-42F7-9ADE-B03661EB69B0}|MauiContactsApp\\MauiContactsApp.csproj|c:\\users\\figur\\downloads\\rudolfprojekt\\mauicontactsapp\\mauicontactsapp\\views\\contactlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AAD05DC3-2505-42F7-9ADE-B03661EB69B0}|MauiContactsApp\\MauiContactsApp.csproj|solutionrelative:mauicontactsapp\\views\\contactlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD05DC3-2505-42F7-9ADE-B03661EB69B0}|MauiContactsApp\\MauiContactsApp.csproj|c:\\users\\figur\\downloads\\rudolfprojekt\\mauicontactsapp\\mauicontactsapp\\views\\contactlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD05DC3-2505-42F7-9ADE-B03661EB69B0}|MauiContactsApp\\MauiContactsApp.csproj|solutionrelative:mauicontactsapp\\views\\contactlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD05DC3-2505-42F7-9ADE-B03661EB69B0}|MauiContactsApp\\MauiContactsApp.csproj|c:\\users\\figur\\downloads\\rudolfprojekt\\mauicontactsapp\\mauicontactsapp\\mauicontactsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAD05DC3-2505-42F7-9ADE-B03661EB69B0}|MauiContactsApp\\MauiContactsApp.csproj|solutionrelative:mauicontactsapp\\mauicontactsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiContactsApp.csproj",
+              "DocumentMoniker": "C:\\Users\\figur\\Downloads\\rudolfprojekt\\MauiContactsApp\\MauiContactsApp\\MauiContactsApp.csproj",
+              "RelativeDocumentMoniker": "MauiContactsApp\\MauiContactsApp.csproj",
+              "ToolTip": "C:\\Users\\figur\\Downloads\\rudolfprojekt\\MauiContactsApp\\MauiContactsApp\\MauiContactsApp.csproj",
+              "RelativeToolTip": "MauiContactsApp\\MauiContactsApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T07:50:31.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\figur\\Downloads\\rudolfprojekt\\MauiContactsApp\\MauiContactsApp\\Views\\ContactListPage.xaml",
+              "RelativeDocumentMoniker": "MauiContactsApp\\Views\\ContactListPage.xaml",
+              "ToolTip": "C:\\Users\\figur\\Downloads\\rudolfprojekt\\MauiContactsApp\\MauiContactsApp\\Views\\ContactListPage.xaml",
+              "RelativeToolTip": "MauiContactsApp\\Views\\ContactListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-12T07:47:03.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\figur\\Downloads\\rudolfprojekt\\MauiContactsApp\\MauiContactsApp\\Views\\ContactListPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiContactsApp\\Views\\ContactListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\figur\\Downloads\\rudolfprojekt\\MauiContactsApp\\MauiContactsApp\\Views\\ContactListPage.xaml.cs",
+              "RelativeToolTip": "MauiContactsApp\\Views\\ContactListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:44:54.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
