@@ -7,7 +7,7 @@ A PROJEKT A MESTERBEN VAN A PRJEKTBRANCHBEN!!!!!!!!!!!
 **Projekt áttekintés**
 
 * Projekt neve: `MauiContactsApp`
-* Cél: .NET 9 MAUI alkalmazás SQLite adatbázissal, teljes CRUD támogatással.
+* Cél: .NET 8.0 MAUI alkalmazás SQLite adatbázissal, teljes CRUD támogatással.
 * Fájlstruktúra:
 
 ```
